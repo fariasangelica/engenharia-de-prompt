@@ -1,5 +1,5 @@
 # Engenharia de Prompt
-Reposiório dedicado para aprender LLMs com engenharia de prompt e NLP para análise de sentimentos, tópicos e entidades em python.
+Reposiório dedicado para o estudo de LLMs com engenharia de prompt e NLP para análise de sentimentos, tópicos e entidades em python.
 
 ## Frameworks utilziados no projeto
 - Gemini
