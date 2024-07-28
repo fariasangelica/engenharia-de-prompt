@@ -17,7 +17,6 @@ Em construção...
   - [ ] Tipos de prompts
   - [ ] Técnicas de Engenharia de Prompts
   - [ ] Paper: "Unleashing the potential..."
-  - [ ] 
 
 - [ ] LLM
   - [ ] LLM
