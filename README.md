@@ -23,7 +23,7 @@ O **objetivo** é utilizar a arquitetura do GEMINI para:
 - Gemini
 - Pandas
 - Python
-- Colab
+- Jupyter
 
 
 ## Etapas e a Arquitetura do projeto
