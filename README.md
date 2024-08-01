@@ -2,7 +2,7 @@
 O projeto construído é um modelo de LLM utilizando Engenharia de Prompt e NLP para análise de sentimentos, tópicos, entidades e polarização de opiniões com dados reais de uma empresa.
 
 
-O **objetivo** é utlizar a arquitetura do GEMINI para:
+O **objetivo** é utilizar a arquitetura do GEMINI para:
 - Identificar o sentimento do cliente.
 - Entidades citadas nos comentários.
 - Tópicos (áreas relacionadas).
