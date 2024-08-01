@@ -13,22 +13,28 @@ O **objetivo** é utlizar a arquitetura do GEMINI para:
 - Os dados reais utilizados para a análise são totalmente públicos do google maps.
 - Foram coletados dados do Gmpas, utilizando a ferramenta: [_Clique aqui_](https://outscraper.com/pt/).
 - A chave de configuração da API do GEMINI: [_Clique aqui_](https://aistudio.google.com/app/apikey).
-## Etapas e a Arquitetura do projeto
 
-![image](https://github.com/user-attachments/assets/e803b5d6-1efd-4dd7-865d-e94e90c17e28)
-
-
-## Projeto final
-![image](https://github.com/user-attachments/assets/5615c601-0fac-4dfc-a01d-39197bcd1d21).
-
-![image](https://github.com/user-attachments/assets/d7ed5df5-0540-44a9-bbe5-8df09b610195).
-
+## Pré-requisitos
+- Python
+- Pandas
+- Conhecimento em API
 
 ## Frameworks utilizados no projeto
 - Gemini
 - Pandas
 - Python
 - Colab
+
+
+## Etapas e a Arquitetura do projeto
+
+![image](https://github.com/user-attachments/assets/e803b5d6-1efd-4dd7-865d-e94e90c17e28)
+
+
+## Projeto final
+![image](https://github.com/user-attachments/assets/5615c601-0fac-4dfc-a01d-39197bcd1d21)
+
+![image](https://github.com/user-attachments/assets/d7ed5df5-0540-44a9-bbe5-8df09b610195)
 
 ## Conteúdos estudados
 - [X] Engenharia de Prompt
