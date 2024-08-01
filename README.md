@@ -30,7 +30,7 @@ O **objetivo** é utlizar a arquitetura do GEMINI para:
 - Python
 - Colab
 
-## Conteúdos estudados durante a masterclass
+## Conteúdos estudados
 - [X] Engenharia de Prompt
   - [X] Prompts
   - [X] Tipos de prompts
