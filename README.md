@@ -24,7 +24,7 @@ O **objetivo** é utlizar a arquitetura do GEMINI para:
 ![image](https://github.com/user-attachments/assets/d7ed5df5-0540-44a9-bbe5-8df09b610195)
 
 
-## Frameworks utilziados no projeto
+## Frameworks utilizados no projeto
 - Gemini
 - Pandas
 - Python
