@@ -1,4 +1,4 @@
-# Projeto
+# Projeto 
 O projeto construído é um modelo de LLM utilizando Engenharia de Prompt e NLP para análise de sentimentos, tópicos, entidades e polarização de opiniões com dados reais de uma empresa.
 
 
